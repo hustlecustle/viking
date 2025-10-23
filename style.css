@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+}
+
+.main-table {
+  width: 900px;
+  margin: 20px auto;
+  border: 2px solid #3b5998;
+  background-color: #fff;
+}
+
+.header {
+  background-color: #3b5998;
+  color: white;
+  padding: 10px;
+  position: relative;
+}
+
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.nav {
+  margin-top: 5px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.location {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-weight: bold;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #f5f6f7;
+  padding: 10px;
+  vertical-align: top;
+  border-right: 1px solid #ccc;
+}
+
+.search-box {
+  margin-bottom: 10px;
+}
+
+.search-box input {
+  width: 120px;
+}
+
+.content {
+  padding: 10px;
+}
+
+.profile-table {
+  width: 100%;
+}
+
+.picture {
+  width: 200px;
+  vertical-align: top;
+}
+
+.picture img {
+  border: 1px solid #ccc;
+}
+
+.info {
+  padding-left: 15px;
+}
